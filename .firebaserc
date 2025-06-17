@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "fir-rtc-89b99",
+    "firebaseRTC": "fir-rtc-9d872"
+  },
+  "targets": {},
+  "etags": {}
+}
